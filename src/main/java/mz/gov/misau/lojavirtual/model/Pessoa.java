@@ -1,4 +1,4 @@
-package mz.gov.misau.lojavirtual;
+package mz.gov.misau.lojavirtual.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;
